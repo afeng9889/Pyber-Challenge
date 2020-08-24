@@ -4,6 +4,7 @@ We gathered data from Pyber's first half of the year 2019 and organized the data
 The ultimate goal is to help Pyber improve access to ride sharing services and determining affordability for underserved neighborhoods. 
 
 #**Results:**
+
 There is a clear distinction between the city types and number of rides from each city type. The urban cities had more than double the amount of rides from both rural and suburban combined. However, this can be due tot he fact that there are much more available drivers in urban cities than the other two city types.
 There is also a difference between the average fares per ride in each city type. The average fare for urban city is lower than suburban and rural.
 Lastly, the average fares each driver would have charged per city is significantly higher in rural cities compared to urban and suburban counterparts.
